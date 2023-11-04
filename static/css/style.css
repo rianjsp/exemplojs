@@ -1,0 +1,10 @@
+#pnlCatalogo {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+}
+
+.card {
+    margin-top: 15px;
+    margin-left: 12px;
+}
